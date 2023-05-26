@@ -10,6 +10,12 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
+  projects: [
+    {
+      name: `pmreview`,
+      href: "https://medium.com/pmreview",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "aslog",
