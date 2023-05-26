@@ -36,7 +36,7 @@ const Feed: React.FC<Props> = ({ categories, tags, posts }) => {
         <Lists.TagList data={tags} />
       </div>
       <div className="col-span-12 lg:col-span-7">
-        <Cards.MobileProfileCard />
+        <Cards.ContactCard />
         <SearchInput value={q} onChange={(e) => setQ(e.target.value)} />
         <Lists.TagList className="block lg:hidden" data={tags} />
         <FeedHeader categories={categories} />
