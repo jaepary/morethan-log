@@ -1,4 +1,4 @@
-import NavBar from "./NavBar"
+//import NavBar from "./NavBar"
 import Logo from "./Logo"
 import ThemeToggle from "./ThemeToggle"
 
@@ -17,7 +17,6 @@ const Header: React.FC<Props> = ({ fullWidth }) => {
         <Logo />
         <div className={`flex gap-3 items-center `}>
           <ThemeToggle />
-          <NavBar />
         </div>
       </div>
     </div>
