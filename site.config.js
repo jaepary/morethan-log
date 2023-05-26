@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "aslog",
+    title: "ASLOG",
     description: "aslog",
     theme: "auto", // ['light', 'dark', 'auto']
   },
