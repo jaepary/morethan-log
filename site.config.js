@@ -2,8 +2,8 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "jeff",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    image: "", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "",
     bio: "Less is more",
     email: "jaepary@gmail.com",
     linkedin: "jaepil",
@@ -11,10 +11,6 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
   ],
   // blog setting (required)
   blog: {
