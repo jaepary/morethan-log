@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "ASLOG",
+    title: "ASLOG(알아두면 쓸모있는)",
     description: "aslog",
     theme: "auto", // ['light', 'dark', 'auto']
   },
