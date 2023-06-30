@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://aslog.kr
+Host: https://www.aslog.kr
 
 # Sitemaps
-Sitemap: https://aslog.kr/sitemap.xml
+Sitemap: https://www.aslog.kr/sitemap.xml
